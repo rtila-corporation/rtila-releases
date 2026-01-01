@@ -4,9 +4,9 @@ Welcome to the RTILA GitHub repository! Here, you can find and download the RTIL
 
 ## Download RTILA
 
-- [RTILA for Windows](https://github.com/IKAJIAN/rtila-releases/releases/latest/download/RTILA-Windows.exe)
-- [RTILA for Mac](https://github.com/IKAJIAN/rtila-releases/releases/latest/download/RTILA-Mac.zip)
-- [RTILA for Linux](https://github.com/IKAJIAN/rtila-releases/releases/latest/download/RTILA-Linux.deb)
+- [RTILA for Windows](https://github.com/rtila-corporation/rtila-releases/releases/download/v8.1.0/RTILA_8.1.0_x64_en-US.msi)
+- [RTILA for Mac](https://github.com/rtila-corporation/rtila-releases/releases/download/v8.1.0/RTILA_8.1.0_aarch64.dmg)
+- [RTILA for Linux](https://github.com/rtila-corporation/rtila-releases/releases/download/v8.1.0/RTILA_8.1.0_amd64.deb)
 
 Please choose the appropriate link for your operating system and download the executable file.
 
